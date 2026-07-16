@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm jehanzaib
 
-<!--
-**Jehanzaib-Awan/Jehanzaib-Awan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MBBS graduate interested in healthcare data and public health informatics.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Healthcare Data Analytics
+- Digital Health Transformation
+- Health Information Systems
+- Data-driven healthcare improvement
+
+## Current Projects
+
+- Healthcare Data Analytics: Patient Outcomes Analysis
+- Public Health Trends Analysis
+- Digital Health Dashboard
