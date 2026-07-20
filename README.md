@@ -1,6 +1,6 @@
 # Hi, I'm jehanzaib
 
- interested in healthcare data and public health informatics.
+ Interested in healthcare data and public health informatics.
 
 ## Interests
 
