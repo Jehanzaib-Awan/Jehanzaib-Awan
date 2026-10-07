@@ -1,4 +1,4 @@
-# Hi,
+# Hi
 
 ### Health Data Science | R | SQL | Statistics
 
